@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkCountryApp=self.webpackChunkCountryApp||[]).push([[776],{776:(l,n,t)=>{t.r(n),t.d(n,{CountriesModule:()=>r});var u=t(6814),_=t(4782),a=t(6208),o=t(4946);let r=(()=>{class s{static#t=this.\u0275fac=function(E){return new(E||s)};static#s=this.\u0275mod=o.oAB({type:s});static#n=this.\u0275inj=o.cJS({imports:[u.ez,_.I,a.m]})}return s})()}}]);
